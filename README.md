@@ -40,3 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmadoliya&" alt="abhishekmadoliya" /></p>
 
+<img src="https://raw.abhishekmadoliya.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+
