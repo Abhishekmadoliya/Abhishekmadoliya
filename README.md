@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-madoliya-540847273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-madoliya" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abhishekmadoliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekmadoliya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhishekmadoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekmadoliya" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/abhishekm29pq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekmadoliya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmadoliya&show_icons=true&locale=en" alt="abhishekmadoliya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmadoliya&" alt="abhishekmadoliya" /></p>
+
 
 
 
