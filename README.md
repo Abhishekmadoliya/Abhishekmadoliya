@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on MERN Stack (mongodb,express,react,nodejs) and building Ai agents (n8n and langchain) 
 
-- 🌱 I’m currently learning **numpy, pandas, tensorflow and pytorch**
+- 🌱 I’m currently learning **Generative AI **
 
 - 👯 I’m looking to collaborate on [linkdln](https://www.linkedin.com/in/abhishek-madoliya-540847273/)
 
@@ -39,6 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekmadoliya&show_icons=true&locale=en" alt="abhishekmadoliya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmadoliya&" alt="abhishekmadoliya" /></p>
+
 
 
 
