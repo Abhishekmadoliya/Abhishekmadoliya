@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack (mongodb,express,react,nodejs) and building Ai agents (n8n . docker & langchain)<br><br>🌱 I’m currently learning Generative AI <br><br>👯 I’m looking to collaborate on linkdln<br><br>🤝 I’m looking for help with pdfrag<br><br>👨‍💻 All of my projects are available at https://abhishek-portfolio-noiynhbg7.vercel.app/<br><br>💬 Ask me about react and node js<br><br>📫 How to reach me abhishekmadoliya@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1sh3prDiykcmYL0LLwXZNYbQcyoXgKeHi2umn5qfGJsA/edit?usp=sharing
+🔭 I’m currently working on MERN Stack (mongodb,express,react,nodejs) and building Ai agents (n8n . docker & langchain)<br><br>🌱 I’m currently learning Generative AI <br><br>👯 I’m looking to collaborate on linkdln<br><br>🤝 I’m looking for help with pdfrag<br><br>👨‍💻 All of my projects are available at https://abhishek-portfolio-seven-self.vercel.app/<br><br>💬 Ask me about react and node js<br><br>📫 How to reach me abhishekmadoliya@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1sh3prDiykcmYL0LLwXZNYbQcyoXgKeHi2umn5qfGJsA/edit?usp=sharing
 
 
 ## 🌐 Socials:
