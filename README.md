@@ -117,22 +117,22 @@ Prompt-to-design-to-code — Stable Diffusion UI generation + LLM code-gen expor
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekmadoliya&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekmadoliya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekmadoliya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekmadoliya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
 </div>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhishekmadoliya&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abhishekmadoliya&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekmadoliya&theme=redical&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekmadoliya&theme=radical&hide_border=true&area=true" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Abhishekmadoliya/Abhishekmadoliya/output/github-contribution-grid-snake.svg" width="95%" alt="contribution snake animation"/>
 </div>
 
 <br/>
